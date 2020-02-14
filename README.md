@@ -1,0 +1,1 @@
+This is a a silly story generator from Mozilla's course for javascript.
